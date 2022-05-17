@@ -29,7 +29,7 @@
 - Maintain an appropriate sense of urgency (but avoid panic and burnout)
 - Take regular stretch breaks (1 minute per 15)
 - End work based on bedtime, not time of day
-- Use zazen to overcome 'scattered thoughts' (too many thoughts or anxious thoughts)
+- Use zazen (shikantaza) to overcome 'scattered thoughts' (too many thoughts or anxious thoughts)
 - Don't focus on how *little* time you have, but on *what you can get done* in the time you have.
 - If you don't want to do something, *DO* it and get it out of the way.
 - Start with the MOST IMPORTANT TASK of the day. Everything else can wait.
